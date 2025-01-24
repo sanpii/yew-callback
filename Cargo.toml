@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Sanpi <sanpi@homecomputing.fr>"]
 edition = "2021"
 license = "MIT"
+repository = "https://github.com/sanpii/yew-callback"
 
 [lib]
 proc-macro = true
