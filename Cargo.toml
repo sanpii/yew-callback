@@ -2,7 +2,7 @@
 name = "yew-callback"
 version = "0.1.0"
 authors = ["Sanpi <sanpi@homecomputing.fr>"]
-edition = "2021"
+edition = "2024"
 license = "MIT"
 repository = "https://github.com/sanpii/yew-callback"
 description = "Macro helps you to create yew::Callback"
