@@ -19,4 +19,4 @@ version = "2.0"
 features = ["full"]
 
 [dev-dependencies]
-yew = "0.21"
+yew = "0.22"
