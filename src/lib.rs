@@ -1,4 +1,5 @@
 #![warn(warnings)]
+#![doc = include_str!("../README.md")]
 
 use quote::ToTokens;
 
