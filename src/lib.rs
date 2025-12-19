@@ -1,3 +1,5 @@
+#![warn(warnings)]
+
 use quote::ToTokens;
 
 #[proc_macro]
